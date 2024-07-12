@@ -13,8 +13,7 @@
 <br/>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SJLee-0525&show_icons=true&theme=vue)">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJLee&show_icons=theme&theme=vue">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SJLee-0525&show_icons=true&theme=vue)"> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SJLee-0525&show_icons=true&theme=vue">
 </p>
 
 <br/>
