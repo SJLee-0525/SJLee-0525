@@ -9,7 +9,6 @@
 
 
 [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee25)](https://solved.ac/sjlee25)
-
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sjlee25&theme=cold)
 
 <p>
