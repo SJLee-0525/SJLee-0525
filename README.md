@@ -3,6 +3,7 @@
 <br/>
 ## Hi there 👋 
   **🌱 I’m currently learning ...**  
+  **[🤔 Today I Learned..](https://github.com/SJLee-0525/TIL)**
 <br/>
 <br/>
  <div align="center"> 
