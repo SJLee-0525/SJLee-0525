@@ -34,7 +34,7 @@
 
 |**SSAFY 12기🌟**|![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![**서울 2반**](https://img.shields.io/badge/%EC%84%9C%EC%9A%B8%202%EB%B0%98-F3F781?style=flat-square) |
 |:---|:---|
-|**MBTI**|![INFP](https://img.shields.io/badge/INFP-D8F781?style=flat-square)|
+|**MBTI**|![970525](https://img.shields.io/badge/INFJ-D8F781?style=flat-square)|
 |**Gitlab Username**|![Unknown](https://img.shields.io/badge/Unknown-gray?style=flat-square)
 |**Phone**| |
 |**Birth**|![970525](https://img.shields.io/badge/970525-navy?style=flat-square)|
