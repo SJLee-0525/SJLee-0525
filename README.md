@@ -13,6 +13,9 @@
 [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee25)](https://solved.ac/sjlee25)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sjlee25&theme=cold)
 
+**[Baekjoon 풀이 기록](https://github.com/SJLee-0525/Python-Work-Space/tree/master/baekjoon) |
+[SW Expert Academy 풀이 기록](https://github.com/SJLee-0525/Python-Work-Space/tree/master/SWEA)**
+
 <br/>
 <br/>
 
