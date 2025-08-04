@@ -15,7 +15,7 @@
 
 [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sjlee25)](https://solved.ac/sjlee25)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=sjlee25&theme=cold)
-<a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sjlee25" width="600" height="300"/></a>
+<!-- <a href="https://www.solve-nyang.com"><img src="https://api.solve-nyang.com/compose/sjlee25" width="600" height="300"/></a> -->
 
 **[Baekjoon 풀이 기록](https://github.com/SJLee-0525/Python-Work-Space/tree/master/baekjoon) |
 [SW Expert Academy 풀이 기록](https://github.com/SJLee-0525/Python-Work-Space/tree/master/SWEA)**
