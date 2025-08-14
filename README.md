@@ -1,6 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=387df4&height=185&section=header&text=SUNGJOON's%20Profile&fontColor=ffffff&fontAlign=70&fontAlignY=36&fontSize=44&rotate=12.2&animation=fadeIn)
-<br/>
-<br/>
+<!-- 
+ ![header](https://capsule-render.vercel.app/api?type=slice&color=387df4&height=185&section=header&text=SUNGJOON's%20Profile&fontColor=ffffff&fontAlign=70&fontAlignY=36&fontSize=44&rotate=12.2&animation=fadeIn) 
+ <br/>
+ <br/>
+-->
 
 ## Hi there 👋
 
